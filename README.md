@@ -2,7 +2,9 @@
 
 [AirVisualizer](https://github.com/kambara/air-visualizer) を開発する前に書いた検証用のコードです。
 
-撮影対象の背景に置く画像は[kambara/air-visualizer-background](https://github.com/kambara/air-visualizer-background) を使用。
+## 背景画像
+
+撮影対象の背景に置く画像は[kambara/air-visualizer-background](https://github.com/kambara/air-visualizer-background) を使用
 
 ## インストール
 
@@ -12,7 +14,7 @@ pipenv install --dev
 
 ## 実行
 
-撮影した動画ファイルのパスを引数で渡して実行
+撮影した動画ファイルのパスを引数で渡す
 
 ```
 pipenv shell
